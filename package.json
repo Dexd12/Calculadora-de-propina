@@ -1,0 +1,19 @@
+{
+  "name": "calculadora-de-propina",
+  "version": "1.0.0",
+  "description": "Mi primera calculadora",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/acb4448426dd5a038cf67d42562c24ea.git"
+  },
+  "author": "Zyterion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/acb4448426dd5a038cf67d42562c24ea"
+  },
+  "homepage": "https://gist.github.com/acb4448426dd5a038cf67d42562c24ea"
+}
